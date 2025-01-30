@@ -1,6 +1,9 @@
 ## 🐳 AI Companion Bot for Termux
 A personal AI companion that runs on Termux (Android) and sends periodic notifications with thoughtful messages using the GROQ API.
 
+![image](https://github.com/user-attachments/assets/6c2f58dc-e310-49aa-89ee-47fdd1660be7)
+
+
 ### Prerequisites
 
 * Termux installed on Android
